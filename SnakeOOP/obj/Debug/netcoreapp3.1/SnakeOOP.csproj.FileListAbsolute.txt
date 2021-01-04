@@ -1,0 +1,13 @@
+C:\Users\marcu\source\repos\SnakeOOP\SnakeOOP\bin\Debug\netcoreapp3.1\SnakeOOP.exe
+C:\Users\marcu\source\repos\SnakeOOP\SnakeOOP\bin\Debug\netcoreapp3.1\SnakeOOP.deps.json
+C:\Users\marcu\source\repos\SnakeOOP\SnakeOOP\bin\Debug\netcoreapp3.1\SnakeOOP.runtimeconfig.json
+C:\Users\marcu\source\repos\SnakeOOP\SnakeOOP\bin\Debug\netcoreapp3.1\SnakeOOP.runtimeconfig.dev.json
+C:\Users\marcu\source\repos\SnakeOOP\SnakeOOP\bin\Debug\netcoreapp3.1\SnakeOOP.dll
+C:\Users\marcu\source\repos\SnakeOOP\SnakeOOP\bin\Debug\netcoreapp3.1\SnakeOOP.pdb
+C:\Users\marcu\source\repos\SnakeOOP\SnakeOOP\obj\Debug\netcoreapp3.1\SnakeOOP.csprojAssemblyReference.cache
+C:\Users\marcu\source\repos\SnakeOOP\SnakeOOP\obj\Debug\netcoreapp3.1\SnakeOOP.AssemblyInfoInputs.cache
+C:\Users\marcu\source\repos\SnakeOOP\SnakeOOP\obj\Debug\netcoreapp3.1\SnakeOOP.AssemblyInfo.cs
+C:\Users\marcu\source\repos\SnakeOOP\SnakeOOP\obj\Debug\netcoreapp3.1\SnakeOOP.csproj.CoreCompileInputs.cache
+C:\Users\marcu\source\repos\SnakeOOP\SnakeOOP\obj\Debug\netcoreapp3.1\SnakeOOP.dll
+C:\Users\marcu\source\repos\SnakeOOP\SnakeOOP\obj\Debug\netcoreapp3.1\SnakeOOP.pdb
+C:\Users\marcu\source\repos\SnakeOOP\SnakeOOP\obj\Debug\netcoreapp3.1\SnakeOOP.genruntimeconfig.cache
